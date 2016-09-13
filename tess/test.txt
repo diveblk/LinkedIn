@@ -1,0 +1,606 @@
+Qty Col Found: 1298 Text: Order
+
+I E R PURCHASE ORDER 
+
+WW RV 
+
+EQ IBRAN R 
+
+TO 1 U DP ODUCTS GROUP LP SHIPM 1 R 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1- 1 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1 09 13 2016 ":I 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1 BUYER PREPAID 1 09 16 2016 .  100% _ 
+Mod(dem1): Sku: BBA-BLA-16 TempRank: 2
+Mod(dem1): Sku: BBA-NAV-16 TempRank: 2
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem1): Sku: SA-CO16 TempRank: 2
+Mod(dem1): Sku: SA-CT16 TempRank: 2
+Mod(dem1): Sku: SA-CT16-W TempRank: 2
+Mod(dem1): Sku: SA-TB16 TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+L_ .. . ...... .12 .........0 _........ .4:1  ._______ A 1 
+Mod(dem1): Sku: BBA-BLA-12 TempRank: 2
+Mod(dem1): Sku: BBA-NAV-12 TempRank: 2
+Mod(dem1): Sku: CESGW12BK TempRank: 2
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: MONEL4-I TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem1): Sku: SA-CKBR-12 TempRank: 2
+Mod(dem1): Sku: SA-CKRA-12 TempRank: 2
+Mod(dem1): Sku: SA-CKRO-12 TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+I 
+
+1.000  610393089607 EQUIB RGSBMS GOAT STRING  
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(sku): Sku: RGS3MS TempRank: 4
+Item Found(upc): RGS3MS Qty:  Rank 105
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1 1.000  610390048383 EQUIB TDBIO34 TIE DOWN  
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(master): Sku: TDBIO TempRank: 2
+Item Found(MasterSkuOnly): TDBIO Qty:  Rank 34
+Item Found(fuzzy2): TDBIO1C Qty:  Rank 13
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: TDBIO34 TempRank: 18
+Item Found(sku): TDBIO34 Qty:  Rank 120
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+' 1.000  610393079769 EQUIB WFP132 BIO FIT PAD  1  
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(sku): Sku: SFP132 TempRank: 4
+Item Found(fuzz1(6)): SFP132 Qty: 1 Rank 17
+Item Found(fuzz1): SFP132 Qty: 1 Rank 43
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+Mod(sku): Sku: WFP130 TempRank: 4
+Item Found(fuzz1(6)): WFP130 Qty: 1 Rank 17
+Item Found(fuzz1): WFP130 Qty: 1 Rank 43
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: WFP132 TempRank: 18
+Item Found(sku): WFP132 Qty: 1 Rank 120
+Mod(sku): Sku: WFP2132 TempRank: 4
+
+1.000  610393084114 1 EQUIB CDN100FCM BELL  E I1 
+Mod(master): Sku: CDN100BL TempRank: 2
+Item Found(MasterSkuOnly): CDN100BL Qty:  Rank 32
+Mod(master): Sku: CDN100BM TempRank: 2
+Item Found(MasterSkuOnly): CDN100BM Qty:  Rank 32
+Mod(master): Sku: CDN100BS TempRank: 2
+Item Found(MasterSkuOnly): CDN100BS Qty:  Rank 32
+Mod(master): Sku: CDN100BXL TempRank: 2
+Item Found(MasterSkuOnly): CDN100BXL Qty:  Rank 32
+Mod(master): Sku: CDN100BLL TempRank: 2
+Item Found(MasterSkuOnly): CDN100BLL Qty:  Rank 32
+Mod(master): Sku: CDN100BLM TempRank: 2
+Item Found(MasterSkuOnly): CDN100BLM Qty:  Rank 32
+Mod(master): Sku: CDN100BLS TempRank: 2
+Item Found(MasterSkuOnly): CDN100BLS Qty:  Rank 32
+Mod(master): Sku: CDN100CHL TempRank: 2
+Item Found(MasterSkuOnly): CDN100CHL Qty:  Rank 32
+Mod(master): Sku: CDN100CHM TempRank: 2
+Item Found(MasterSkuOnly): CDN100CHM Qty:  Rank 32
+Mod(master): Sku: CDN100CHS TempRank: 2
+Item Found(MasterSkuOnly): CDN100CHS Qty:  Rank 32
+Mod(master): Sku: CDN100COL TempRank: 2
+Item Found(MasterSkuOnly): CDN100COL Qty:  Rank 32
+Mod(master): Sku: CDN100COM TempRank: 2
+Item Found(MasterSkuOnly): CDN100COM Qty:  Rank 32
+Mod(master): Sku: CDN100COS TempRank: 2
+Item Found(MasterSkuOnly): CDN100COS Qty:  Rank 32
+Mod(master): Mod(sku): Sku: CDN100FCL TempRank: 6
+Item Found(MasterSkuOnly): CDN100FCL Qty:  Rank 36
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: CDN100FCM TempRank: 18
+Item Found(sku): CDN100FCM Qty:  Rank 118
+Mod(master): Mod(sku): Sku: CDN100FCS TempRank: 6
+Item Found(MasterSkuOnly): CDN100FCS Qty:  Rank 36
+Mod(master): Sku: CDN100GYL TempRank: 2
+Item Found(MasterSkuOnly): CDN100GYL Qty:  Rank 32
+Mod(master): Sku: CDN100GYM TempRank: 2
+Item Found(MasterSkuOnly): CDN100GYM Qty:  Rank 32
+Mod(master): Sku: CDN100GYS TempRank: 2
+Item Found(MasterSkuOnly): CDN100GYS Qty:  Rank 32
+Mod(master): Sku: CDN100LGL TempRank: 2
+Item Found(MasterSkuOnly): CDN100LGL Qty:  Rank 32
+Mod(master): Sku: CDN100LGM TempRank: 2
+Item Found(MasterSkuOnly): CDN100LGM Qty:  Rank 32
+Mod(master): Sku: CDN100LGS TempRank: 2
+Item Found(MasterSkuOnly): CDN100LGS Qty:  Rank 32
+Mod(master): Sku: CDN100PRL TempRank: 2
+Item Found(MasterSkuOnly): CDN100PRL Qty:  Rank 32
+Mod(master): Sku: CDN100PRM TempRank: 2
+Item Found(MasterSkuOnly): CDN100PRM Qty:  Rank 32
+Mod(master): Sku: CDN100PRS TempRank: 2
+Item Found(MasterSkuOnly): CDN100PRS Qty:  Rank 32
+Mod(master): Sku: CDN100RDL TempRank: 2
+Item Found(MasterSkuOnly): CDN100RDL Qty:  Rank 32
+Mod(master): Sku: CDN100RDM TempRank: 2
+Item Found(MasterSkuOnly): CDN100RDM Qty:  Rank 32
+Mod(master): Sku: CDN100RDS TempRank: 2
+Item Found(MasterSkuOnly): CDN100RDS Qty:  Rank 32
+Mod(master): Sku: CDN100TLL TempRank: 2
+Item Found(MasterSkuOnly): CDN100TLL Qty:  Rank 32
+Mod(master): Sku: CDN100TLM TempRank: 2
+Item Found(MasterSkuOnly): CDN100TLM Qty:  Rank 32
+Mod(master): Sku: CDN100TLS TempRank: 2
+Item Found(MasterSkuOnly): CDN100TLS Qty:  Rank 32
+Mod(master): Sku: CDN100LBL TempRank: 2
+Item Found(MasterSkuOnly): CDN100LBL Qty:  Rank 32
+Mod(master): Sku: CDN100LBM TempRank: 2
+Item Found(MasterSkuOnly): CDN100LBM Qty:  Rank 32
+Mod(master): Sku: CDN100LBS TempRank: 2
+Item Found(MasterSkuOnly): CDN100LBS Qty:  Rank 32
+Mod(master): Sku: CDN100WL TempRank: 2
+Item Found(MasterSkuOnly): CDN100WL Qty:  Rank 32
+Mod(master): Sku: CDN100WM TempRank: 2
+Item Found(MasterSkuOnly): CDN100WM Qty:  Rank 32
+Mod(master): Sku: CDN100WS TempRank: 2
+Item Found(MasterSkuOnly): CDN100WS Qty:  Rank 32
+Mod(master): Sku: CDN100WXL TempRank: 2
+Item Found(MasterSkuOnly): CDN100WXL Qty:  Rank 32
+Item Found(fuzzy2): CLS100FCM Qty:  Rank 11
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1.000  6103030999% ~ EQUIB CLS10015CSM BOOTS  1 . 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+_ 1.000  610393097831 EQUIB CLSWOSGYM BOOTS  . . 
+Item Found(upc): CLS100SGYM Qty:  Rank 100
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+’ 1.000  6103930999% EQUIB CLS20015CSM HIND  X ` 1 
+Mod(dem2): Sku: AWEW200BK TempRank: 2
+Mod(dem2): Sku: AWEW200WH TempRank: 2
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1.000  610393101927 1 EQUIB CDN100TI.M MED MEDIUM BELL  1 S1 
+Mod(dem2): Sku: 3DXWFCM TempRank: 2
+Mod(dem2): Sku: 3DXWWHM TempRank: 2
+Mod(dem2): Sku: AWCSB100BKM TempRank: 2
+Mod(dem2): Sku: AWCSB100WHM TempRank: 2
+Mod(dem1): Sku: BB-BLA-M TempRank: 2
+Mod(dem1): Sku: BB-BLAR-M TempRank: 2
+Mod(master): Sku: CDN100BL TempRank: 2
+Item Found(MasterSkuOnly): CDN100BL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100BM TempRank: 4
+Item Found(MasterSkuOnly): CDN100BM Qty: 1 Rank 34
+Mod(master): Sku: CDN100BS TempRank: 2
+Item Found(MasterSkuOnly): CDN100BS Qty: 1 Rank 32
+Mod(master): Sku: CDN100BXL TempRank: 2
+Item Found(MasterSkuOnly): CDN100BXL Qty: 1 Rank 32
+Mod(master): Sku: CDN100BLL TempRank: 2
+Item Found(MasterSkuOnly): CDN100BLL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100BLM TempRank: 4
+Item Found(MasterSkuOnly): CDN100BLM Qty: 1 Rank 34
+Mod(master): Sku: CDN100BLS TempRank: 2
+Item Found(MasterSkuOnly): CDN100BLS Qty: 1 Rank 32
+Mod(master): Sku: CDN100CHL TempRank: 2
+Item Found(MasterSkuOnly): CDN100CHL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100CHM TempRank: 4
+Item Found(MasterSkuOnly): CDN100CHM Qty: 1 Rank 34
+Mod(master): Sku: CDN100CHS TempRank: 2
+Item Found(MasterSkuOnly): CDN100CHS Qty: 1 Rank 32
+Mod(master): Sku: CDN100COL TempRank: 2
+Item Found(MasterSkuOnly): CDN100COL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100COM TempRank: 4
+Item Found(MasterSkuOnly): CDN100COM Qty: 1 Rank 34
+Mod(master): Sku: CDN100COS TempRank: 2
+Item Found(MasterSkuOnly): CDN100COS Qty: 1 Rank 32
+Mod(master): Sku: CDN100FCL TempRank: 2
+Item Found(MasterSkuOnly): CDN100FCL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100FCM TempRank: 4
+Item Found(MasterSkuOnly): CDN100FCM Qty: 1 Rank 34
+Mod(master): Sku: CDN100FCS TempRank: 2
+Item Found(MasterSkuOnly): CDN100FCS Qty: 1 Rank 32
+Mod(master): Sku: CDN100GYL TempRank: 2
+Item Found(MasterSkuOnly): CDN100GYL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100GYM TempRank: 4
+Item Found(MasterSkuOnly): CDN100GYM Qty: 1 Rank 34
+Mod(master): Sku: CDN100GYS TempRank: 2
+Item Found(MasterSkuOnly): CDN100GYS Qty: 1 Rank 32
+Mod(master): Sku: CDN100LGL TempRank: 2
+Item Found(MasterSkuOnly): CDN100LGL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100LGM TempRank: 4
+Item Found(MasterSkuOnly): CDN100LGM Qty: 1 Rank 34
+Mod(master): Sku: CDN100LGS TempRank: 2
+Item Found(MasterSkuOnly): CDN100LGS Qty: 1 Rank 32
+Mod(master): Sku: CDN100PRL TempRank: 2
+Item Found(MasterSkuOnly): CDN100PRL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100PRM TempRank: 4
+Item Found(MasterSkuOnly): CDN100PRM Qty: 1 Rank 34
+Mod(master): Sku: CDN100PRS TempRank: 2
+Item Found(MasterSkuOnly): CDN100PRS Qty: 1 Rank 32
+Mod(master): Sku: CDN100RDL TempRank: 2
+Item Found(MasterSkuOnly): CDN100RDL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100RDM TempRank: 4
+Item Found(MasterSkuOnly): CDN100RDM Qty: 1 Rank 34
+Mod(master): Sku: CDN100RDS TempRank: 2
+Item Found(MasterSkuOnly): CDN100RDS Qty: 1 Rank 32
+Mod(master): Sku: CDN100TLL TempRank: 2
+Item Found(MasterSkuOnly): CDN100TLL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100TLM TempRank: 4
+Item Found(upc): CDN100TLM Qty: 1 Rank 104
+Mod(master): Sku: CDN100TLS TempRank: 2
+Item Found(MasterSkuOnly): CDN100TLS Qty: 1 Rank 32
+Mod(master): Sku: CDN100LBL TempRank: 2
+Item Found(MasterSkuOnly): CDN100LBL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100LBM TempRank: 4
+Item Found(MasterSkuOnly): CDN100LBM Qty: 1 Rank 34
+Mod(master): Sku: CDN100LBS TempRank: 2
+Item Found(MasterSkuOnly): CDN100LBS Qty: 1 Rank 32
+Mod(master): Sku: CDN100WL TempRank: 2
+Item Found(MasterSkuOnly): CDN100WL Qty: 1 Rank 32
+Mod(dem2): Mod(master): Sku: CDN100WM TempRank: 4
+Item Found(MasterSkuOnly): CDN100WM Qty: 1 Rank 34
+Mod(master): Sku: CDN100WS TempRank: 2
+Item Found(MasterSkuOnly): CDN100WS Qty: 1 Rank 32
+Mod(master): Sku: CDN100WXL TempRank: 2
+Item Found(MasterSkuOnly): CDN100WXL Qty: 1 Rank 32
+Mod(dem2): Sku: CDNDL16CTM TempRank: 2
+Mod(dem2): Sku: CDNDL16PPM TempRank: 2
+Mod(dem2): Sku: CDNDL15TDM TempRank: 2
+Mod(dem2): Sku: CDNDL15WLM TempRank: 2
+Mod(dem2): Sku: CDNDL16ZPM TempRank: 2
+Mod(dem1): Sku: CE-BLA-M TempRank: 2
+Mod(dem2): Sku: CENS14BKM TempRank: 2
+Mod(dem2): Sku: CENS14BGM TempRank: 2
+Mod(dem2): Sku: CENS14CHRM TempRank: 2
+Mod(dem2): Sku: CENS16HLM TempRank: 2
+Mod(dem1): Sku: CEPFCBKM TempRank: 2
+Mod(dem1): Sku: CEPFCECNVKM TempRank: 2
+Mod(dem1): Sku: CGLOVE08M TempRank: 2
+Mod(dem1): Sku: CLS10011TPM TempRank: 2
+Mod(dem1): Sku: CLS20011TPM TempRank: 2
+Mod(dem2): Sku: CNB100B M TempRank: 2
+Mod(dem2): Sku: CNB100W M TempRank: 2
+Mod(dem2): Sku: CNTKVBK M TempRank: 2
+Mod(dem2): Sku: CNTKVWH M TempRank: 2
+Mod(dem1): Sku: DS-RW-M TempRank: 2
+Mod(dem1): Sku: WG-RW-M TempRank: 2
+Mod(dem1): Sku: JP-RW-M TempRank: 2
+Mod(dem1): Sku: WE-RW-M TempRank: 2
+Mod(dem2): Sku: CSB100B M TempRank: 2
+Mod(dem2): Sku: CSB100W M TempRank: 2
+Mod(dem2): Sku: CSW100BM TempRank: 2
+Mod(dem2): Sku: CSW100WM TempRank: 2
+Mod(dem1): Sku: CSYNGLRHM TempRank: 2
+Mod(dem1): Sku: DS-W-M TempRank: 2
+Mod(dem1): Sku: WG-W-M TempRank: 2
+Mod(dem1): Sku: JP-W-M TempRank: 2
+Mod(dem1): Sku: LP-W-M TempRank: 2
+Mod(dem1): Sku: WE-W-M TempRank: 2
+Mod(dem1): Sku: CWP-M TempRank: 2
+Mod(dem1): Sku: CXSBKM TempRank: 2
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem1): Sku: DS-3/4-M TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: EMSHEETM TempRank: 2
+Mod(dem1): Sku: EPN-M TempRank: 2
+Mod(dem1): Sku: EP-II-M TempRank: 2
+Mod(dem1): Sku: FL-G2-M TempRank: 2
+Mod(dem1): Sku: FM-NN-M TempRank: 2
+Mod(dem1): Sku: FS-BG-MED TempRank: 2
+Mod(dem2): Sku: GRR 335 M TempRank: 2
+Mod(dem2): Sku: GT4 335 M TempRank: 2
+Mod(dem2): Sku: GT4S335 M TempRank: 2
+Mod(dem2): Sku: HEAT 335 M TempRank: 2
+Mod(dem1): Sku: TJACKHLLM TempRank: 2
+Mod(dem1): Sku: LSB100B M TempRank: 2
+Mod(dem2): Sku: MRR 335 M TempRank: 2
+Mod(dem1): Sku: NBB-14 TempRank: 2
+Mod(dem2): Sku: NV4 335 M TempRank: 2
+Mod(dem2): Sku: PTNT2BKM TempRank: 2
+Mod(dem2): Sku: PTNT2WHM TempRank: 2
+Mod(dem2): Sku: PWRS335 M TempRank: 2
+Mod(dem1): Sku: QR-NN-MED TempRank: 2
+Mod(dem2): Sku: RRR 335 M TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem1): Sku: SA-DCCM TempRank: 2
+Mod(dem1): Sku: SA-DCDM TempRank: 2
+Mod(dem1): Sku: SA-DCFM TempRank: 2
+Mod(dem1): Sku: SA-DCSM TempRank: 2
+Mod(dem1): Sku: SA-DC1M TempRank: 2
+Mod(dem1): Sku: SB-INS-MED TempRank: 2
+Mod(dem1): Sku: SLOBBERH TempRank: 2
+Mod(dem1): Sku: SPUR12YF TempRank: 2
+Mod(dem1): Sku: SPUR34YSDOT TempRank: 2
+Mod(dem1): Sku: SPUR58YD TempRank: 2
+Mod(dem1): Sku: SPUR58YDC TempRank: 2
+Mod(dem1): Sku: SPUR58YSSPS TempRank: 2
+Mod(dem1): Sku: SPURYBC TempRank: 2
+Mod(dem2): Sku: SPYDR 335 M TempRank: 2
+Mod(dem1): Sku: SSG2-M-BLA TempRank: 2
+Mod(dem1): Sku: SSLM TempRank: 2
+Mod(dem1): Sku: TJACKETLM TempRank: 2
+Mod(dem1): Sku: TJACKETMM TempRank: 2
+Mod(dem1): Sku: VESTBLM TempRank: 2
+Mod(dem1): Sku: VESTBMM TempRank: 2
+Mod(dem1): Sku: VESTHLLM TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem1): Sku: WE-3/4-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+Mod(dem2): Sku: XR4 335 M TempRank: 2
+Mod(dem2): Sku: XR4S335 M TempRank: 2
+
+1.000  610393067377 EQUIB SEALUM3 STRRPS  
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(sku): Sku: SEALUM2 TempRank: 4
+Item Found(fuzzy2): SEALUM2 Qty:  Rank 17
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: SEALUM3 TempRank: 18
+Item Found(sku): SEALUM3 Qty:  Rank 120
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1.000  6103930465% 1 EQUIB CSYNGLRHM GLOVE  ’ AT 
+Mod(master): Mod(sku): Sku: CSYNGLRHL TempRank: 6
+Item Found(MasterSkuOnly): CSYNGLRHL Qty:  Rank 37
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: CSYNGLRHM TempRank: 18
+Item Found(sku): CSYNGLRHM Qty:  Rank 119
+Mod(master): Mod(sku): Sku: CSYNGLRHS TempRank: 6
+Item Found(MasterSkuOnly): CSYNGLRHS Qty:  Rank 37
+Mod(master): Sku: CSYNGLRHXL TempRank: 2
+Item Found(MasterSkuOnly): CSYNGLRHXL Qty:  Rank 33
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1.000  610393089621 1 EQUIB RGSBH GOAT STRNG  1 .1 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Item Found(upc): RGS3H Qty: 1 Rank 101
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1 1.000  0860233000% EOUIB BHDALLYWRAP12  1: 
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: BHDALLYWRAP12 TempRank: 18
+Item Found(sku): BHDALLYWRAP12 Qty:  Rank 120
+Mod(master): Sku: DALLYWRAP12 TempRank: 2
+Item Found(MasterSkuOnly): DALLYWRAP12 Qty:  Rank 34
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1 1.000  6103930908% 1 EQUIB CALFHDPK PINK  1 ·= 
+Mod(dem1): Sku: BC-L TempRank: 2
+Mod(master): Mod(sku): Sku: CALFHDBK TempRank: 6
+Item Found(MasterSkuOnly): CALFHDBK Qty: 1 Rank 37
+Mod(master): Sku: CALFHDGR TempRank: 2
+Item Found(MasterSkuOnly): CALFHDGR Qty: 1 Rank 33
+Mod(dem1): Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: CALFHDPK TempRank: 20
+Item Found(sku): CALFHDPK Qty: 1 Rank 123
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: HAYNET-PK TempRank: 2
+Mod(dem1): Sku: HTR-CRH-PK TempRank: 2
+Mod(dem1): Sku: HTR-LEAD-PK TempRank: 2
+Mod(dem1): Sku: KIDGROOMPK TempRank: 2
+Mod(dem1): Sku: LG3A-PK TempRank: 2
+Mod(dem1): Sku: LG3H-PK TempRank: 2
+Mod(dem1): Sku: LG3WB-PK TempRank: 2
+Mod(dem1): Sku: RGSTUBEPK TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem1): Sku: SA-QCSRCHRPK TempRank: 2
+Mod(dem1): Sku: STEERHDPK TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1 1.000  610393003481 1 EQUIB GLS100BM BOOT  1 
+Item Found(upc): CLS100B M Qty: 1 Rank 100
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1 ` 1.000  6103930042% 1 EQUIB CRC100N28 CINCH  1 
+Mod(master): Mod(sku): Sku: CRC100N26 TempRank: 6
+Item Found(MasterSkuOnly): CRC100N26 Qty:  Rank 36
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: CRC100N28 TempRank: 18
+Item Found(sku): CRC100N28 Qty:  Rank 119
+Mod(master): Mod(sku): Sku: CRC100NN28 TempRank: 6
+Item Found(MasterSkuOnly): CRC100NN28 Qty:  Rank 37
+Mod(master): Sku: CRC100N30 TempRank: 2
+Item Found(MasterSkuOnly): CRC100N30 Qty:  Rank 33
+Mod(master): Sku: CRC100NN30 TempRank: 2
+Item Found(MasterSkuOnly): CRC100NN30 Qty:  Rank 33
+Mod(master): Sku: CRC100N32 TempRank: 2
+Item Found(MasterSkuOnly): CRC100N32 Qty:  Rank 32
+Mod(master): Sku: CRC100NN32 TempRank: 2
+Item Found(MasterSkuOnly): CRC100NN32 Qty:  Rank 32
+Mod(master): Sku: CRC100N34 TempRank: 2
+Item Found(MasterSkuOnly): CRC100N34 Qty:  Rank 32
+Mod(master): Sku: CRC100NN34 TempRank: 2
+Item Found(MasterSkuOnly): CRC100NN34 Qty:  Rank 32
+Mod(master): Sku: CRC100N36 TempRank: 2
+Item Found(MasterSkuOnly): CRC100N36 Qty:  Rank 32
+Mod(master): Sku: CRC100NN36 TempRank: 2
+Item Found(MasterSkuOnly): CRC100NN36 Qty:  Rank 32
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+I 1.000  6103930070% EQUIB MAGICLOOP  5. 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: MAGICLOOP TempRank: 18
+Item Found(sku): MAGICLOOP Qty:  Rank 120
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+` 1.000  610393008004 EQUIB ROPEPWD  1 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Item Found(upc): GRR 330MS Qty: 1 Rank 101
+Mod(master): Mod(sku(noSpace)): Mod(sku): Sku: ROPEPWD TempRank: 18
+Item Found(sku): ROPEPWD Qty: 1 Rank 120
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1.000  610393082042 EQUIB SSLCEI SPUR STRAPS  1 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(master): Sku: SPUR TempRank: 2
+Item Found(upc): SSLCB Qty: 1 Rank 102
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1.000  610393071251 EQUIB SSPSB T7SS20 BIT  1 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Item Found(fuzzy2): SSPSBIT6SS20 Qty: 1 Rank 13
+Item Found(fuzzy2): SSPSBIT7SS10 Qty: 1 Rank 13
+Item Found(upc): SSPSBIT7SS20 Qty: 1 Rank 102
+Item Found(fuzzy2): SSPSBIT7SS24 Qty: 1 Rank 13
+Item Found(fuzzy2): SSPSBIT7SS29 Qty: 1 Rank 13
+Item Found(fuzzy2): SSPSBIT7SS30 Qty: 1 Rank 13
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+1 1 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+~? 
+
+W I 
+
+%*'- 1; 1 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+Y  1511..QJFIYGI 
+
+IN.11.FW~L»?.·<?FL“?1F.»11 §T*.¥··" ’ KK:L*  SM I · X  
+
+2 ·  III; .1 1.. 1 " 1. . 1 I » I . TORALF 
+Mod(dem1): Sku: CCC-II TempRank: 2
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+11  Q 1 1 
+Mod(dem2): Sku: DS-1/0-L TempRank: 2
+Mod(dem2): Sku: DS-1/0-XL TempRank: 2
+Mod(dem1): Sku: RXSH-1/0-M TempRank: 2
+Mod(dem2): Sku: WE-1/0-L TempRank: 2
+Mod(dem2): Sku: WE-1/0-XL TempRank: 2
+
+I 89130240305 
+
+-----ITEMS FOUND-----
+Sku: RGS3MS Rank: 98 Qty: 0 Line: 109
+Sku: TDBIO34 Rank: 120 Qty: 0 Line: 110
+Sku: SFP132 Rank: 43 Qty: 1 Line: 111
+Sku: WFP130 Rank: 43 Qty: 1 Line: 111
+Sku: WFP132 Rank: 120 Qty: 1 Line: 111
+Sku: CDN100FCL Rank: 16 Qty: 0 Line: 112
+Sku: CDN100FCM Rank: 118 Qty: 0 Line: 112
+Sku: CDN100FCS Rank: 16 Qty: 0 Line: 112
+Sku: CLS100SGYM Rank: 93 Qty: 0 Line: 114
+Sku: CDN100TLM Rank: 97 Qty: 1 Line: 116
+Sku: SEALUM2 Rank: 17 Qty: 0 Line: 117
+Sku: SEALUM3 Rank: 120 Qty: 0 Line: 117
+Sku: CSYNGLRHL Rank: 17 Qty: 0 Line: 118
+Sku: CSYNGLRHM Rank: 119 Qty: 0 Line: 118
+Sku: CSYNGLRHS Rank: 17 Qty: 0 Line: 118
+Sku: RGS3H Rank: 94 Qty: 1 Line: 119
+Sku: BHDALLYWRAP12 Rank: 120 Qty: 0 Line: 120
+Sku: CALFHDBK Rank: 17 Qty: 1 Line: 121
+Sku: CALFHDPK Rank: 123 Qty: 1 Line: 121
+Sku: CLS100B M Rank: 93 Qty: 1 Line: 122
+Sku: CRC100N26 Rank: 16 Qty: 0 Line: 123
+Sku: CRC100N28 Rank: 119 Qty: 0 Line: 123
+Sku: CRC100NN28 Rank: 17 Qty: 0 Line: 123
+Sku: MAGICLOOP Rank: 120 Qty: 0 Line: 124
+Sku: GRR 330MS Rank: 94 Qty: 1 Line: 125
+Sku: ROPEPWD Rank: 120 Qty: 1 Line: 125
+Sku: SSLCB Rank: 95 Qty: 1 Line: 126
+Sku: SSPSBIT7SS20 Rank: 95 Qty: 1 Line: 127
+
+-----ITEMS FOUND MAX RANK-----
+Sku: RGS3MS Rank: 98 Qty: 0 Page: 1 Line: 9
+Sku: TDBIO34 Rank: 120 Qty: 0 Page: 1 Line: 10
+Sku: WFP132 Rank: 120 Qty: 1 Page: 1 Line: 11
+Sku: CDN100FCM Rank: 118 Qty: 0 Page: 1 Line: 12
+Sku: CLS100SGYM Rank: 93 Qty: 0 Page: 1 Line: 14
+Sku: CDN100TLM Rank: 97 Qty: 1 Page: 1 Line: 16
+Sku: SEALUM3 Rank: 120 Qty: 0 Page: 1 Line: 17
+Sku: CSYNGLRHM Rank: 119 Qty: 0 Page: 1 Line: 18
+Sku: RGS3H Rank: 94 Qty: 1 Page: 1 Line: 19
+Sku: BHDALLYWRAP12 Rank: 120 Qty: 0 Page: 1 Line: 20
+Sku: CALFHDPK Rank: 123 Qty: 1 Page: 1 Line: 21
+Sku: CLS100B M Rank: 93 Qty: 1 Page: 1 Line: 22
+Sku: CRC100N28 Rank: 119 Qty: 0 Page: 1 Line: 23
+Sku: MAGICLOOP Rank: 120 Qty: 0 Page: 1 Line: 24
+Sku: ROPEPWD Rank: 120 Qty: 1 Page: 1 Line: 25
+Sku: SSLCB Rank: 95 Qty: 1 Page: 1 Line: 26
+Sku: SSPSBIT7SS20 Rank: 95 Qty: 1 Page: 1 Line: 27
